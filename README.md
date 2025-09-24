@@ -1,1 +1,1 @@
-# Assignments for ECS 098
+## "github" assignment for ecs098
